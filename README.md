@@ -1,6 +1,5 @@
 # Human_Pose_Estimation_For_Fitness_Applications
-Contents:
-1.
-2.
-3.
-4.
+
+<div align="center">
+    <img src="docs/logo.jpg", width="400">
+</div>
