@@ -1,1 +1,1 @@
-# Human_Pose_Detection_For_Fitness_Applications
+# Human_Pose_Estimation_For_Fitness_Applications
